@@ -8,7 +8,7 @@ Game ini memiliki sistem pertarungan sederhana antara **Player** dan **Enemy**, 
 
 Berikut video demo dari **Game 1**:
 
-[▶️ Watch Gameplay Demo](https://youtu.be/s28bKAdWcrk)
+[![Watch the video](https://img.youtube.com/vi/s28bKAdWcrk/maxresdefault.jpg)](https://youtu.be/s28bKAdWcrk)
 
 ## 📌 Tentang Game
 
